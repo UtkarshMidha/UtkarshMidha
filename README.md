@@ -39,19 +39,39 @@ I'm a **Master’s student in Data Science** at **TU Braunschweig**, passionate 
 
 ### **📊 Deceptive Content Analysis**  
 🔹 Developed an **LSTM-based NLP model** to detect deceptive content  
+🔹 Implemented **Logistic Regression** as a baseline model for comparison <br>
 🔹 Integrated with an **Anvil-based web app** for real-time predictions  
 🔹 Applied **text preprocessing, sentiment analysis, and deep learning** techniques  
-🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Final-Year-Project-PCS23_19/)**
+🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Deceptive_Content_Analysis_using_LSTM_and_Logistic_Regression/)**
 
 ### **🔎 Customer Churn Prediction**  
-🔹 Built a **predictive model using Random Forest & XGBoost**  
-🔹 Identified key factors influencing customer retention  
-🔹 Improved model accuracy through **hyperparameter tuning & feature engineering**
+🔹 Developed a **predictive model using Random Forest & XGBoost** to detect potential customer churn  
+🔹 Processed **Telco Customer Churn dataset** by handling missing values & encoding categorical features  
+🔹 Applied **SMOTE** to balance dataset & improve classification performance  
+🔹 Conducted **Exploratory Data Analysis (EDA)** to uncover key churn indicators  
+🔹 Optimized model performance via **hyperparameter tuning (GridSearchCV, RandomizedSearchCV)**  
+🔹 Evaluated models using **Accuracy, Precision, Recall, F1-Score & Confusion Matrix**  
+🔹 Deployed trained models using **Pickle** for real-time churn prediction<br>
+🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Customer_Churn_Prediction)**
 
 ### **📈 Stock Price Forecasting**  
-🔹 Implemented a **Time Series forecasting model (ARIMA & LSTM)**  
-🔹 Processed & visualized stock market trends using **Pandas & Matplotlib**  
-🔹 Achieved **high prediction accuracy** using deep learning models
+🔹 Developed a **hybrid stock price forecasting model** using **LSTM & ARIMA**  
+🔹 Collected **SAP SE (SAP.DE) stock data** from **Yahoo Finance** for analysis  
+🔹 Engineered **sliding window features** for **LSTM-based deep learning predictions**  
+🔹 Applied **Auto ARIMA** for optimal parameter selection in time-series forecasting  
+🔹 **Compared model performance** using **MAE, RMSE, MAPE, SMAPE, and R²**  
+🔹 Visualized trends using **Matplotlib & Seaborn** for better market insights  
+🔹 Achieved **high accuracy (R²: 0.996 for LSTM, 0.997 for ARIMA)** <br>
+🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Stock_Price_Prediction_using_LSTM_and_ARIMA)**
+
+### **🛍️ Customer Segmentation using KMeans Clustering**
+🔹 Applied **KMeans clustering** to segment customers based on **purchasing behavior**  
+🔹 Engineered features like **Recency, Frequency, and Monetary Value** for analysis  
+🔹 Identified key customer segments: **Retain, Re-Engage, and Nurture**  
+🔹 Optimized cluster count using **Elbow Method & Silhouette Score**  
+🔹 Visualized insights using **3D scatter plots & violin plots** for better interpretation  
+🔹 Used **Python, Pandas, Scikit-learn, Matplotlib, and Seaborn**  <br>
+🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Customer_Segmentation_using_KMeans_Clustering)**
 
 ---
 
