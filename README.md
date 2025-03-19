@@ -44,6 +44,14 @@ I'm a **Master’s student in Data Science** at **TU Braunschweig**, passionate 
 🔹 Applied **text preprocessing, sentiment analysis, and deep learning** techniques  
 🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Deceptive_Content_Analysis_using_LSTM_and_Logistic_Regression/)**
 
+### **🧠 Brain Tumor Detection using CNN**  
+🔹 Developed a **Convolutional Neural Network (CNN)** to classify brain MRI images into four categories: Glioma, Meningioma, Pituitary, and No Tumor  
+🔹 Achieved **96% test accuracy** and **weighted F1-score of 0.96**  
+🔹 Utilized **TensorFlow/Keras** for model development and training  
+🔹 Applied **data preprocessing**, **image augmentation**, and **early stopping** to improve model performance  
+🔹 Deployed the model for **predicting tumor types from unseen MRI images**  
+🔗 **[GitHub Repo](https://github.com/UtkarshMidha/TumorNet-Brain_Tumor_Detection_with_CNN)**  
+
 ### **🔎 Customer Churn Prediction**  
 🔹 Developed a **predictive model using Random Forest & XGBoost** to detect potential customer churn  
 🔹 Processed **Telco Customer Churn dataset** by handling missing values & encoding categorical features  
