@@ -81,6 +81,13 @@ I'm a **Master’s student in Data Science** at **TU Braunschweig**, passionate 
 🔹 Used **Python, Pandas, Scikit-learn, Matplotlib, and Seaborn**  <br>
 🔗 **[GitHub Repo](https://github.com/UtkarshMidha/Customer_Segmentation_using_KMeans_Clustering)**
 
+### **🏥 USA Healthcare Industry Dashboard**  
+🔹 Developed a **monthly dashboard** tracking hospital metrics and patient data  
+🔹 Analyzed **payer-wise revenue** and **cost breakdowns**  
+🔹 Used **Power BI** for visualization and **Excel** for preprocessing  
+🔹 Enabled **data-driven insights** for regional demand and cost-saving opportunities  
+🔗 **[GitHub Repo](https://github.com/UtkarshMidha/USA_Healthcare_Industry_Dashboard)**
+
 ---
 
 ## 🎖️ Certifications & Achievements
