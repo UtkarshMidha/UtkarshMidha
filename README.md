@@ -124,3 +124,9 @@ I'm a **Master’s student in Data Science** at **TU Braunschweig**, passionate 
 ---
 
 ⭐ **Explore my projects and feel free to connect! Always open to learning and collaborating on AI & Data Science projects.** 🚀
+
+## ⚙️ GitHub Analytics :
+<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=UtkarshMidha&&style=flat-square" align="center" />
+</div> 
