@@ -128,5 +128,6 @@ I'm a **Master’s student in Data Science** at **TU Braunschweig**, passionate 
 ## ⚙️ GitHub Analytics :
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=UtkarshMidha&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=UtkarshMidha&abbreviated=true&&style=flat-square" align="center" />
 </div> 
+
